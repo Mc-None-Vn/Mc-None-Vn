@@ -12,6 +12,6 @@
 
 ---
 
-<image title="Top langs" width="100%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mc-None-Vn&layout=compact">
+<image title="Top langs" width="100%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mc-None-Vn&layout=compact&locale=en">
 
 ---

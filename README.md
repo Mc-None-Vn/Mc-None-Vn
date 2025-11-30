@@ -12,7 +12,7 @@
 
 ---
 
-<img title="Top langs" width="100%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc-none-vn&layout=compact&locale=en">
+<img title="Top langs" width="100%" alt="Top langs" src="https://github-readme-stats-beryl-chi-96.vercel.app/api/top-langs/?username=mc-none-vn&layout=compact&locale=en">
 
 ---
 

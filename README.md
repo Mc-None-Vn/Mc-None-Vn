@@ -34,6 +34,6 @@
 
 <p align="center">
     <a href="https://github.com/Mc-None-Vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mc-None-Vn" height="40" width="40" /></a>
-    <a href="https://youtube.com/@Mc.None.25565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Mc.None.25565" height="40" width="40" /></a>
+    <a href="https://youtube.com/@mc.vn.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mc.vn.404" height="40" width="40" /></a>
     <a href="https://discord.gg/kVFUBmhFEZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kVFUBmhFEZ" height="40" width="40" /></a>
 </p>

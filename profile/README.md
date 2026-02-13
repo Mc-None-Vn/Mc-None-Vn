@@ -43,9 +43,9 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/mc-none-vn" target="blank"> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub" height="35" /></a>
+    <a href="https://github.com/mc-none-vn" target="blank"> <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" alt="GitHub" height="35" /></a>
     &nbsp;
-    <a href="https://youtube.com/@mc.vn.404" target="blank"> <img src="https://img.shields.io/badge/-YouTube-darkred?style=for-the-badge&logo=youtube" alt="YouTube" height="35" /></a>
+    <a href="https://youtube.com/@mc.vn.404" target="blank"> <img src="https://img.shields.io/badge/-YouTube-darkred?style=flat&logo=youtube" alt="YouTube" height="35" /></a>
     &nbsp;
-    <a href="https://discord.gg/kVFUBmhFEZ" target="blank"> <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35" /></a>
+    <a href="https://discord.gg/kVFUBmhFEZ" target="blank"> <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" height="35" /></a>
 </p>

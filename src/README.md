@@ -28,7 +28,6 @@
     </p>
     <details>
         <summary>More ...</summary>
-        <br>
         <img width="500px" src="https://github-readme-stats-beryl-chi-96.vercel.app/api/top-langs/?username=mc-none-vn&layout=compact&locale=en" />
     </details>
 </ul>

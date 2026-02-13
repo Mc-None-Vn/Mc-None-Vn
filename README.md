@@ -35,6 +35,6 @@
 
 <p align="center">
     <a href="https://github.com/Mc-None-Vn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="You are here" height="40" width="40" /></a>
-    <a href="https://youtube.com/@mc.vn.404" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="This is my channel" height="40" width="40" /></a>
+    <a href="https://youtube.com/@mc.vn.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mc-None-Vn/Mc-None-Vn/refs/heads/main/icons/Youtube.svg" alt="This is my channel" height="40" width="40" /></a>
     <a href="https://discord.gg/kVFUBmhFEZ" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="This is my server" height="40" width="40" /></a>
 </p>

@@ -25,10 +25,9 @@
         <a href="https://developer.mozilla.org/en-US/search?q=express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
         &nbsp;
         <a href="https://developer.mozilla.org/en-US/search?q=mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
-    </p>
+    </p> <br>
     <details>
         <summary>More ...</summary>
-        <br>
         <img width="500px" src="https://github-readme-stats-beryl-chi-96.vercel.app/api/top-langs/?username=mc-none-vn&layout=compact&locale=en" />
     </details>
 </ul>

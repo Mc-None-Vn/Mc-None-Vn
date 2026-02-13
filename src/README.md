@@ -1,6 +1,6 @@
-<h2 align="center">👋 Hi, I'm Marlernix! Nice to meet you! </h2>
+<h2 align="center">👋 Hi, I'm %{NAME}%! Nice to meet you! </h2>
 
---- 
+---
 
 <p>> What skills do i have?</p>
 <ul>[🌐] Web Development</ul>
@@ -9,7 +9,7 @@
 
 <p>> Languages and Tools.</p>
 <ul>
-    <a href="https://wiki.botdesignerdiscord.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mc-none-vn/.github/refs/heads/main/icons/BotDesignerForDiscord.svg" alt="bdfd" width="40" height="40"/></a>
+    <a href="https://wiki.botdesignerdiscord.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mc-none-vn/.github/refs/heads/main/src/icons/BotDesignerForDiscord.svg" alt="bdfd" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/search?q=html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/search?q=css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/search?q=javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
@@ -35,6 +35,6 @@
 
 <p align="center">
     <a href="https://github.com/Mc-None-Vn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="You are here" height="40" width="40" /></a>
-    <a href="https://youtube.com/@mc.vn.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/mc-none-vn/.github/refs/heads/main/icons/Youtube.svg" alt="This is my channel" height="40" width="40" /></a>
+    <a href="https://youtube.com/@mc.vn.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/mc-none-vn/.github/refs/heads/main/src/icons/Youtube.svg" alt="This is my channel" height="40" width="40" /></a>
     <a href="https://discord.gg/kVFUBmhFEZ" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="This is my server" height="40" width="40" /></a>
 </p>

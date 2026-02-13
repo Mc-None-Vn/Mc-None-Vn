@@ -1,4 +1,4 @@
-name: Generate Profile README
+name: Generate Profile README.md
 
 on:
     # Schedule the workflow to run daily at midnight UTC

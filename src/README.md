@@ -27,23 +27,17 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mc-none-vn/.github/src/assets/snake/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mc-none-vn/.github/src/assets/snake/snake.svg" />
-  <img align="center" width="100%" src="https://raw.githubusercontent.com/mc-none-vn/.github/src/assets/snake/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mc-none-vn/.github/output/assets/snake/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mc-none-vn/.github/output/assets/snake/snake.svg" />
+  <img align="center" width="100%" src="https://raw.githubusercontent.com/mc-none-vn/.github/output/assets/snake/snake.svg" />
 </picture>
 
 ---
 
 <p align="center">
-    <a href="https://github.com/mc-none-vn" target="blank">
-        <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub" height="35" />
-    </a>
+    <a href="https://github.com/mc-none-vn" target="blank"> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub" height="35" /></a>
     &nbsp;
-    <a href="https://youtube.com/@mc.vn.404" target="blank">
-        <img src="https://img.shields.io/badge/-YouTube-darkred?style=for-the-badge&logo=youtube" alt="YouTube" height="35" />
-    </a>
+    <a href="https://youtube.com/@mc.vn.404" target="blank"> <img src="https://img.shields.io/badge/-YouTube-darkred?style=for-the-badge&logo=youtube" alt="YouTube" height="35" /></a>
     &nbsp;
-    <a href="https://discord.gg/kVFUBmhFEZ" target="blank">
-        <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35" />
-    </a>
+    <a href="https://discord.gg/kVFUBmhFEZ" target="blank"> <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35" /></a>
 </p>
